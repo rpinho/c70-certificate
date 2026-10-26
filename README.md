@@ -1,5 +1,8 @@
 # Optimizing a cube–ball lower bound for the reverse Brunn–Minkowski constant
 
+[Merged into Tao's optimization-constants table](https://github.com/teorth/optimizationproblems/pull/259)
+on October 26, 2026 (UTC). The result remains unrefereed; table inclusion is not expert peer review or formal verification.
+
 Ricardo Pinho · [ORCID 0009-0006-2744-2599](https://orcid.org/0009-0006-2744-2599)
 
 This unrefereed preprint proves the claim
